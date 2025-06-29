@@ -1,0 +1,88 @@
+[2025-06-29 10:32:52] 🚀 RECEIVED POST DATA:
+Array
+(
+    [price_rule_id] => 139
+    [supplier_id] => 3
+    [valid_from] => 2025-06-30
+    [currency] => EUR
+    [cost_per_adult] => 22
+    [cost_per_child] => 22
+    [extras_json] => {}
+)
+
+[2025-06-29 12:24:00] 🚀 RECEIVED POST DATA:
+Array
+(
+    [price_rule_id] => 139
+    [supplier_id] => 3
+    [valid_from] => 2025-06-29
+    [currency] => TRY
+    [cost_per_adult] => 
+    [cost_per_child] => 22
+    [extras_json] => {}
+)
+
+[2025-06-29 12:24:24] 🚀 RECEIVED POST DATA:
+Array
+(
+    [price_rule_id] => 139
+    [supplier_id] => 3
+    [valid_from] => 2025-07-20
+    [currency] => EUR
+    [cost_per_adult] => 22
+    [cost_per_child] => 22
+    [extras_json] => {}
+)
+
+[2025-06-29 12:24:35] 🚀 RECEIVED POST DATA:
+Array
+(
+    [price_rule_id] => 139
+    [supplier_id] => 3
+    [valid_from] => 2025-07-20
+    [currency] => TRY
+    [cost_per_adult] => 22.00
+    [cost_per_child] => 22.00
+    [extras_json] => {}
+)
+
+[2025-06-29 12:27:00] 🚀 RECEIVED POST DATA:
+Array
+(
+    [price_rule_id] => 139
+    [supplier_id] => 3
+    [valid_from] => 2025-06-29
+    [currency] => TRY
+    [cost_per_adult] => 22
+    [cost_per_child] => 22
+    [extras_json] => {}
+)
+
+[2025-06-29 12:27:00] DEBUG: is_direct_update = FALSE
+[2025-06-29 12:27:08] 🚀 RECEIVED POST DATA:
+Array
+(
+    [price_rule_id] => 139
+    [supplier_id] => 3
+    [valid_from] => 2025-07-20
+    [currency] => EUR
+    [cost_per_adult] => 22.00
+    [cost_per_child] => 30
+    [extras_json] => {}
+)
+
+[2025-06-29 12:27:08] DEBUG: is_direct_update = FALSE
+[2025-06-29 12:31:25] 🚀 RECEIVED POST DATA:
+Array
+(
+    [price_rule_id] => 139
+    [supplier_id] => 3
+    [valid_from] => 2025-07-20
+    [id] => 114
+    [currency] => EUR
+    [cost_per_adult] => 22.00
+    [cost_per_child] => 33
+    [extras_json] => {}
+)
+
+[2025-06-29 12:31:25] DEBUG: is_direct_update = TRUE

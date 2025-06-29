@@ -1,0 +1,251 @@
+[2025-05-24 19:46:39] [INFO] UYARI: Bu script sadece komut satırından çalıştırılabilir. Erişim denendi (SAPI: litespeed).
+[2025-05-24 22:47:20] [INFO] Cron job başlatıldı: Hatırlatma mesajları kontrol ediliyor.
+[2025-05-24 22:47:20] [INFO] 1 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 22:47:20] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 22:47:20] [INFO] Şablon ID 45 için gönderilecek uygun rezervasyon bulunamadı.
+[2025-05-24 22:47:20] [INFO] Cron job tamamlandı. Toplam 0 mesaj gönderildi. Süre: 0 saniye.
+[2025-05-24 22:49:14] [INFO] Cron job başlatıldı: Hatırlatma mesajları kontrol ediliyor.
+[2025-05-24 22:49:14] [INFO] 1 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 22:49:14] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 22:49:14] [INFO] Şablon ID 45 için gönderilecek uygun rezervasyon bulunamadı.
+[2025-05-24 22:49:14] [INFO] Cron job tamamlandı. Toplam 0 mesaj gönderildi. Süre: 0 saniye.
+[2025-05-24 22:51:59] [INFO] Cron job başlatıldı: Hatırlatma mesajları kontrol ediliyor.
+[2025-05-24 22:51:59] [INFO] 1 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 22:51:59] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 22:51:59] [INFO] Şablon ID 45 için gönderilecek uygun rezervasyon bulunamadı.
+[2025-05-24 22:51:59] [INFO] Cron job tamamlandı. Toplam 0 mesaj gönderildi. Süre: 0 saniye.
+[2025-05-24 22:53:31] [INFO] Cron job başlatıldı: Hatırlatma mesajları kontrol ediliyor.
+[2025-05-24 22:53:31] [INFO] 1 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 22:53:31] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 22:53:31] [INFO] Şablon ID 45 için gönderilecek uygun rezervasyon bulunamadı.
+[2025-05-24 22:53:31] [INFO] Cron job tamamlandı. Toplam 0 mesaj gönderildi. Süre: 0 saniye.
+[2025-05-24 23:05:45] [INFO] Cron job başlatıldı: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:05:45] [INFO] 1 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:05:45] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:05:45] [INFO] 1 adet uygun rezervasyon bulundu (Şablon ID: 45).
+[2025-05-24 23:05:45] [INFO] Rezervasyon ID 15 işleniyor (Şablon ID: 45).
+[2025-05-24 23:05:45] [ERROR] BEKLENMEYEN HATA: Call to private method TriggerEngine::conditionsMatch() from global scope (Dosya: /home/u620785866/domains/app.rideandgoo.com/public_html/functions/cron_reminders.php, Satır: 119)
+[2025-05-24 23:05:45] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:08:02] [INFO] Cron job başlatıldı: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:08:02] [INFO] 1 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:08:02] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:08:02] [INFO] 1 adet uygun rezervasyon bulundu (Şablon ID: 45).
+[2025-05-24 23:08:02] [INFO] Rezervasyon ID 15 işleniyor (Şablon ID: 45).
+[2025-05-24 23:08:02] [INFO] Koşullar eşleşti. Mesaj gönderiliyor (Rez. ID: 15, Şablon ID: 45).
+[2025-05-24 23:08:03] [INFO] Rezervasyon ID 15 için Şablon ID 45 hatırlatması gönderildi olarak işaretlendi.
+[2025-05-24 23:08:03] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 1 mesaj gönderildi/denendi. Süre: 1.3 saniye.
+[2025-05-24 23:08:26] [INFO] Cron job başlatıldı: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:08:26] [INFO] 1 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:08:26] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:08:26] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:08:26] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0.02 saniye.
+[2025-05-24 23:09:06] [INFO] Cron job başlatıldı: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:09:06] [INFO] 1 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:09:06] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:09:06] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:09:06] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:10:47] [INFO] Cron job başlatıldı: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:10:47] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:10:47] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:10:47] [INFO] 1 adet uygun rezervasyon bulundu (Şablon ID: 45).
+[2025-05-24 23:10:47] [INFO] Rezervasyon ID 15 işleniyor (Şablon ID: 45).
+[2025-05-24 23:10:47] [INFO] Koşullar eşleşti. Mesaj gönderiliyor (Rez. ID: 15, Şablon ID: 45).
+[2025-05-24 23:10:48] [INFO] Rezervasyon ID 15 için Şablon ID 45 hatırlatması gönderildi olarak işaretlendi.
+[2025-05-24 23:10:48] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:10:48] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:10:48] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 1 mesaj gönderildi/denendi. Süre: 0.96 saniye.
+[2025-05-24 23:11:09] [INFO] Cron job başlatıldı: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:11:09] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:11:09] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:11:09] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:11:09] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:11:09] [INFO] 1 adet uygun rezervasyon bulundu (Şablon ID: 46).
+[2025-05-24 23:11:09] [INFO] Rezervasyon ID 15 işleniyor (Şablon ID: 46).
+[2025-05-24 23:11:09] [INFO] Koşullar eşleşti. Mesaj gönderiliyor (Rez. ID: 15, Şablon ID: 46).
+[2025-05-24 23:11:10] [INFO] Rezervasyon ID 15 için Şablon ID 46 hatırlatması gönderildi olarak işaretlendi.
+[2025-05-24 23:11:10] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 1 mesaj gönderildi/denendi. Süre: 0.95 saniye.
+[2025-05-24 23:11:20] [INFO] Cron job başlatıldı: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:11:20] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:11:20] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:11:20] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:11:20] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:11:20] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:11:20] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:14:22] [ERROR] KRİTİK HATA: Geçersiz veya eksik cron token ile erişim denemesi. SAPI: litespeed. Sağlanan Token: ''
+[2025-05-24 23:14:35] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:14:35] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:14:35] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:14:35] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:14:35] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:14:35] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:14:35] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:14:38] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:14:38] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:14:38] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:14:38] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:14:38] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:14:38] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:14:38] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:14:39] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:14:39] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:14:39] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:14:39] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:14:39] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:14:39] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:14:39] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:14:41] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:14:41] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:14:41] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:14:41] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:14:41] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:14:41] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:14:41] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0.01 saniye.
+[2025-05-24 23:15:39] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:15:39] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:15:39] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:15:39] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:39] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:15:40] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:40] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:15:45] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:15:45] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:15:45] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:15:45] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:45] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:15:45] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:45] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:15:46] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:15:46] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:15:46] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:15:46] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:46] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:15:46] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:46] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:15:47] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:15:47] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:15:47] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:15:47] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:47] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:15:47] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:47] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:15:48] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:15:48] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:15:48] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:15:48] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:48] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:15:48] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:48] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:15:48] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:15:48] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:15:48] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:15:48] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:48] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:15:48] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:48] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:15:49] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:15:49] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:15:49] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:15:49] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:49] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:15:49] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:49] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:15:49] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:15:49] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:15:49] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:15:49] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:49] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:15:49] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:49] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:15:50] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:15:50] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:15:50] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:15:50] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:50] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:15:50] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:50] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:15:50] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:15:50] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:15:50] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:15:50] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:50] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:15:50] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:50] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:15:51] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:15:51] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:15:51] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:15:51] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:51] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:15:51] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:51] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:15:52] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:15:52] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:15:52] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:15:52] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:52] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:15:52] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:52] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:15:52] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:15:52] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:15:52] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:15:52] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:52] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:15:52] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:52] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:15:53] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:15:53] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:15:53] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:15:53] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:53] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:15:53] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:53] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:15:54] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:15:54] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:15:54] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:15:54] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:54] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:15:54] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:54] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:15:54] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:15:54] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:15:54] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:15:54] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:54] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:15:54] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:54] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:15:54] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:15:54] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:15:54] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:15:54] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:54] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:15:54] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:54] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:15:55] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:15:55] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:15:55] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:15:55] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:55] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:15:55] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:15:55] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0.02 saniye.
+[2025-05-24 23:20:36] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:20:36] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:20:36] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:20:36] [INFO] Şablon ID 45 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:20:36] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:20:36] [INFO] Şablon ID 46 için gönderilecek yeni uygun rezervasyon bulunamadı.
+[2025-05-24 23:20:36] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0 saniye.
+[2025-05-24 23:22:17] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-05-24 23:22:17] [INFO] 2 adet aktif hatırlatma şablonu bulundu.
+[2025-05-24 23:22:17] [INFO] Şablon işleniyor: ID 45 - Başlık: 'hatirlatma', Süre: 60 dk.
+[2025-05-24 23:22:17] [INFO] 1 adet uygun rezervasyon bulundu (Şablon ID: 45).
+[2025-05-24 23:22:17] [INFO] Rezervasyon ID 15 işleniyor (Şablon ID: 45).
+[2025-05-24 23:22:17] [INFO] Koşullar eşleşti. Mesaj gönderiliyor (Rez. ID: 15, Şablon ID: 45).
+[2025-05-24 23:22:19] [INFO] Rezervasyon ID 15 için Şablon ID 45 hatırlatması gönderildi olarak işaretlendi.
+[2025-05-24 23:22:19] [INFO] Şablon işleniyor: ID 46 - Başlık: 'hatirlatma 2', Süre: 30 dk.
+[2025-05-24 23:22:19] [INFO] 1 adet uygun rezervasyon bulundu (Şablon ID: 46).
+[2025-05-24 23:22:19] [INFO] Rezervasyon ID 15 işleniyor (Şablon ID: 46).
+[2025-05-24 23:22:19] [INFO] Koşullar eşleşti. Mesaj gönderiliyor (Rez. ID: 15, Şablon ID: 46).
+[2025-05-24 23:22:20] [INFO] Rezervasyon ID 15 için Şablon ID 46 hatırlatması gönderildi olarak işaretlendi.
+[2025-05-24 23:22:20] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 2 mesaj gönderildi/denendi. Süre: 2.48 saniye.
+[2025-06-10 18:46:44] [INFO] Cron token doğrulandı. Cron job başlatılıyor: Hatırlatma mesajları (çoklu şablon sistemi) kontrol ediliyor.
+[2025-06-10 18:46:44] [INFO] Aktif hatırlatma şablonu bulunamadı. Cron sonlandırılıyor.
+[2025-06-10 18:46:44] [INFO] Cron job tamamlandı. Bu çalıştırmada toplam 0 mesaj gönderildi/denendi. Süre: 0.01 saniye.

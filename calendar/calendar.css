@@ -1,0 +1,265 @@
+/* Genel Reset ve Kutu Modeli */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+    --primary-color: #ee7743;
+    --secondary-color: #f8f9fa;
+    --text-color: #333;
+    --border-color: #dee2e6;
+    --hover-color: #e06c32;
+    --header-bg: #fff;
+    --modal-bg: #fff;
+    --modal-shadow: rgba(0, 0, 0, 0.15);
+    --today-highlight-bg: #fff3cd;
+    --event-text-color: #fff;
+    --day-cell-height: 120px;
+    --day-cell-height-mobile: 100px;
+    --day-cell-height-small-mobile: 90px;
+    --card-header-bg: #f7f7f7;
+    --card-icon-color: var(--primary-color);
+}
+
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background-color: #f4f7f6; color: var(--text-color); line-height: 1.5; }
+
+.calendar-container { width: 100%; background-color: var(--header-bg); border-radius: 0.375rem; box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,.075); overflow: hidden; border: 1px solid var(--border-color); }
+.calendar-header { background-color: var(--header-bg); padding: 1rem 1.25rem; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--border-color); }
+.calendar-nav { display: flex; align-items: center; margin-bottom: 0.5rem; flex-grow: 1; }
+.calendar-nav h2 { margin: 0 1rem; font-size: 1.25em; font-weight: 500; color: var(--text-color); min-width: 160px; text-align: center; }
+.calendar-nav button, .calendar-view-toggle button, .calendar-search button { background-color: #f8f9fa; border: 1px solid #ced4da; color: #212529; padding: 0.375rem 0.75rem; border-radius: 0.25rem; cursor: pointer; transition: all 0.15s ease-in-out; margin: 0 0.25rem; font-size: 0.875em; line-height: 1.5; }
+.calendar-nav button i, .calendar-search button i { pointer-events: none; }
+.calendar-nav button:hover, .calendar-view-toggle button:hover, .calendar-search button:hover { background-color: #e9ecef; border-color: #adb5bd; }
+#todayButton, .calendar-view-toggle button.active { background-color: var(--primary-color); color: var(--event-text-color); border-color: var(--primary-color); }
+#todayButton:hover, .calendar-view-toggle button.active:hover { background-color: var(--hover-color); border-color: var(--hover-color); }
+.calendar-search { display: flex; align-items: center; margin-bottom: 0.5rem; margin-left: 1rem; }
+.calendar-search input[type="text"] { padding: 0.375rem 0.75rem; border: 1px solid #ced4da; border-right: none; border-radius: 0.25rem 0 0 0.25rem; font-size: 0.875em; outline: none; min-width: 180px; line-height: 1.5; }
+.calendar-search input[type="text"]:focus { border-color: var(--primary-color); box-shadow: 0 0 0 0.2rem rgba(238, 119, 67, 0.25); }
+.calendar-search button { border-radius: 0 0.25rem 0.25rem 0; }
+.calendar-view-toggle { display: flex; align-items: center; margin-bottom: 0.5rem; margin-left: 1rem; }
+.calendar-grid-container { padding: 0; }
+.calendar-weekdays { display: grid; grid-template-columns: repeat(7, 1fr); font-weight: 500; text-align: center; background-color: var(--secondary-color); border-bottom: 1px solid var(--border-color); }
+.calendar-weekdays div { padding: 0.75rem 0.5rem; font-size: 0.8em; color: #495057; text-transform: uppercase; }
+.calendar-days { display: grid; grid-template-columns: repeat(7, 1fr); gap: 1px; background-color: var(--border-color); }
+.calendar-days div.day-cell { height: var(--day-cell-height); background-color: white; padding: 0.4rem; font-size: 0.85em; display: flex; flex-direction: column; overflow: hidden; position: relative; }
+.day-number { font-weight: 500; margin-bottom: 0.25rem; text-align: right; color: #6c757d; font-size: 0.9em; flex-shrink: 0; }
+.events-list { flex-grow: 1; overflow-y: auto; min-height: 0; -webkit-overflow-scrolling: touch; }
+.events-list::-webkit-scrollbar { width: 5px; } .events-list::-webkit-scrollbar-track { background: rgba(0,0,0,0.05); border-radius:10px; } .events-list::-webkit-scrollbar-thumb { background: #ccc; border-radius:10px;} .events-list::-webkit-scrollbar-thumb:hover { background: #aaa; }
+.calendar-days div.day-cell.other-month { background-color: #f7f9fc; }
+.calendar-days div.day-cell.other-month .day-number { color: #adb5bd; }
+.calendar-days div.day-cell.other-month .events-list { visibility: hidden; }
+.calendar-days div.day-cell.today { background-color: var(--today-highlight-bg); }
+.calendar-days div.day-cell.today .day-number { color: var(--primary-color); font-weight: 700; }
+.event { background-color: var(--primary-color); color: var(--event-text-color); padding: 0.2rem 0.4rem; border-radius: 0.2rem; font-size: 0.75em; margin-bottom: 0.25rem; cursor: pointer; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: block; transition: background-color 0.2s; border: 1px solid rgba(0,0,0,0.05); }
+.event:hover { background-color: var(--hover-color); }
+.more-events-indicator { background-color: #6c757d !important; color: white !important; text-align: center !important; font-size: 0.7em !important; padding: 3px 4px !important; margin-top: 3px !important; border-radius: 0.2rem; cursor: pointer; border: 1px solid rgba(0,0,0,0.05) !important; }
+.more-events-indicator:hover { background-color: #5a6268 !important; }
+
+/* Liste Görünümü Stilleri */
+.calendar-list-view { padding: 1rem; }
+.list-day-group { margin-bottom: 1rem; background-color: #fff; border: 1px solid var(--border-color); border-radius: 0.375rem; }
+.list-day-header { background-color: var(--secondary-color); padding: 0.75rem 1rem; font-weight: 500; border-bottom: 1px solid var(--border-color); font-size: 1em; }
+.list-event-item { padding: 0.75rem 1rem; border-bottom: 1px solid #f1f1f1; cursor: pointer; display: flex; justify-content: space-between; align-items: center; transition: background-color 0.1s; }
+.list-event-item:last-child { border-bottom: none; } .list-event-item:hover { background-color: #f8f9fa; }
+.list-event-item .event-time { font-weight: 500; color: var(--primary-color); margin-right: 0.75rem; font-size: 0.85em; flex-shrink: 0; }
+.list-event-item .event-title { font-size: 0.9em; flex-grow: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+/* --- YENİ DETAYLI MODAL KARTI STİLLERİ --- */
+.modal { display: none; position: fixed; z-index: 1050; left: 0; top: 0; width: 100%; height: 100%; overflow-x: hidden; overflow-y: auto; background-color: rgba(0,0,0,0.6); animation: fadeInModalBg 0.3s ease-out; }
+@keyframes fadeInModalBg { from { opacity: 0; } to { opacity: 1; } }
+
+.modal-content.reservation-card {
+    background-color: var(--modal-bg);
+    margin: 3% auto; /* Biraz daha yukarıdan başlasın */
+    padding: 0; /* İç padding'i kaldır, bölümler kendi padding'ini yönetecek */
+    border: none;
+    border-radius: 0.5rem; /* Daha yumuşak köşe */
+    width: 90%;
+    max-width: 700px; /* Kart için daha geniş olabilir */
+    box-shadow: 0 0.5rem 1.5rem rgba(0,0,0,0.2);
+    position: relative;
+    animation: slideInCard 0.35s ease-out;
+    overflow: hidden; /* İçerik taşmasın */
+}
+@keyframes slideInCard { from { transform: translateY(-30px) scale(0.97); opacity: 0; } to { transform: translateY(0) scale(1); opacity: 1; } }
+
+.reservation-card .card-header {
+    background-color: var(--card-header-bg);
+    padding: 1rem 1.5rem;
+    border-bottom: 1px solid var(--border-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.reservation-card .card-header h3 {
+    margin: 0;
+    font-size: 1.4em;
+    font-weight: 600; /* Daha belirgin başlık */
+    color: var(--text-color);
+}
+.reservation-card .close-button { /* Kapatma butonu header'a taşındı */
+    position: static; /* Mutlak konumlandırmayı kaldır */
+    font-size: 1.5rem;
+    color: #888;
+    opacity: 0.8;
+    padding: 0.25rem; /* Tıklama alanını genişlet */
+}
+.reservation-card .close-button:hover { color: #333; opacity: 1; }
+
+.reservation-id-badge {
+    background-color: var(--primary-color);
+    color: white;
+    font-size: 0.8em;
+    font-weight: 500;
+    padding: 0.25em 0.6em;
+    border-radius: 0.25rem;
+}
+
+.reservation-card .card-body {
+    padding: 1.5rem;
+    max-height: 70vh; /* Kart içeriği çok uzarsa scroll oluşsun */
+    overflow-y: auto;
+}
+
+.reservation-card .card-section {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px dashed #eee; /* Bölümler arası ince ayırıcı */
+}
+.reservation-card .card-section:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: none;
+}
+.reservation-card .card-section h4 {
+    font-size: 1.1em;
+    font-weight: 600;
+    color: var(--text-color);
+    margin-bottom: 0.75rem;
+    display: flex;
+    align-items: center;
+}
+.reservation-card .card-section h4 i {
+    margin-right: 0.5rem;
+    color: var(--card-icon-color);
+    font-size: 1.1em; /* İkon boyutu başlıkla orantılı */
+}
+.reservation-card .card-section p,
+.reservation-card .card-section li {
+    font-size: 0.9em;
+    color: #555;
+    margin-bottom: 0.4rem;
+    line-height: 1.6;
+}
+.reservation-card .card-section p strong {
+    font-weight: 500;
+    color: #333;
+    min-width: 120px; /* Etiketlerin hizalı durması için (opsiyonel) */
+    display: inline-block; /* Gerekirse */
+}
+.reservation-card .card-section ul {
+    list-style-type: none; /* Madde işaretlerini kaldır */
+    padding-left: 0;
+}
+.reservation-card .card-section ul li {
+    padding: 0.25rem 0;
+    border-bottom: 1px solid #f5f5f5;
+}
+.reservation-card .card-section ul li:last-child { border-bottom: none; }
+
+/* Alınış Zamanı Değiştirme Formu Stilleri */
+.pickup-datetime-section .btn-action { /* "Alınış Zamanını Değiştir" butonu */
+    background-color: #6c757d; /* Gri */
+    color: white;
+    border: none;
+    font-size: 0.8em;
+    padding: 0.3rem 0.6rem;
+    margin-top: 0px; /* Display span ile aynı hizada */
+    margin-bottom: 10px;
+}
+.pickup-datetime-section .btn-action:hover { background-color: #5a6268; }
+
+#pickupFormContainer {
+    border: 1px solid #e0e0e0;
+    padding: 1rem;
+    margin-top: 0.75rem;
+    border-radius: 0.25rem;
+    background-color: #f9f9f9;
+}
+#pickupFormContainer label { display: block; margin-bottom: 0.3rem; font-weight:500; font-size:0.85em; color:#444; }
+#pickupFormContainer input[type="date"],
+#pickupFormContainer input[type="time"] {
+    width: 100%;
+    padding: 0.4rem 0.6rem;
+    margin-bottom: 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+    font-size: 0.9em;
+}
+#pickupFormContainer .btn-success { background-color: #28a745; border-color: #28a745; }
+#pickupFormContainer .btn-success:hover { background-color: #218838; border-color: #1e7e34; }
+#pickupFormContainer .btn-light { background-color: #f8f9fa; border-color: #f8f9fa; color: #212529; }
+#pickupFormContainer .btn-light:hover { background-color: #e2e6ea; border-color: #dae0e5; }
+
+
+.reservation-card .card-footer {
+    background-color: var(--card-header-bg);
+    padding: 1rem 1.5rem;
+    border-top: 1px solid var(--border-color);
+    text-align: right;
+}
+.reservation-card .card-footer .btn { /* Genel buton stilleri */
+    margin-left: 0.5rem;
+    font-size: 0.85em;
+    padding: 0.4rem 0.8rem;
+    text-decoration: none;
+}
+.btn-info { background-color: #0dcaf0; border-color: #0dcaf0; color:white;}
+.btn-info:hover { background-color: #0aa3c2; border-color: #0aa3c2;}
+.btn-primary { background-color: var(--primary-color); border-color: var(--primary-color); color:white;}
+.btn-primary:hover { background-color: var(--hover-color); border-color: var(--hover-color);}
+
+
+/* Status Stilleri */
+#modalCardStatus .status-pending { color: #ffc107; font-weight: bold; }
+#modalCardStatus .status-confirmed { color: #198754; font-weight: bold; }
+#modalCardStatus .status-cancelled { color: #dc3545; font-weight: bold; }
+#modalCardStatus .status-completed { color: #0dcaf0; font-weight: bold; }
+#modalCardStatus .status-on_hold { color: #fd7e14; font-weight: bold; }
+#modalCardStatus .status-default { color: #6c757d; font-weight: bold; }
+
+/* Mobil Uyumluluk */
+@media (max-width: 992px) { /* Tablet ve küçük laptoplar */
+    .calendar-header { flex-direction: column; align-items: stretch; }
+    .calendar-nav, .calendar-search, .calendar-view-toggle { margin-left: 0; margin-right: 0; width: 100%; justify-content: center; }
+    .calendar-search, .calendar-view-toggle { margin-top: 0.75rem; }
+    .calendar-search input[type="text"] { flex-grow: 1; }
+    .calendar-view-toggle button { flex-grow: 1; }
+}
+@media (max-width: 768px) { /* Küçük tabletler ve büyük telefonlar */
+    .calendar-nav h2 { font-size: 1.1em; margin: 0 0.5rem; }
+    .calendar-days div.day-cell { height: var(--day-cell-height-mobile); }
+    .event { font-size: 0.7em; padding: 0.15rem 0.3rem; }
+    .more-events-indicator { font-size: 0.65em !important; padding: 2px 3px !important; }
+    .calendar-weekdays div { font-size: 0.7em; padding: 0.5rem 0.2rem; }
+    
+    .modal-content.reservation-card { margin: 5% auto; width: 95%; }
+    .reservation-card .card-header { padding: 0.75rem 1rem; }
+    .reservation-card .card-header h3 { font-size: 1.2em; }
+    .reservation-card .card-body { padding: 1rem; max-height: 75vh; }
+    .reservation-card .card-section h4 { font-size: 1em; }
+    .reservation-card .card-section p, .reservation-card .card-section li { font-size: 0.85em; }
+    .reservation-card .card-footer { padding: 0.75rem 1rem; }
+    .reservation-card .card-footer .btn { font-size: 0.8em; }
+    #pickupFormContainer { padding: 0.75rem; }
+}
+@media (max-width: 480px) { /* Küçük telefonlar */
+    .calendar-nav h2 { font-size: 1em; min-width: 120px; }
+    .calendar-nav button, .calendar-view-toggle button, .calendar-search button { padding: 0.25rem 0.5rem; font-size: 0.75em; }
+    .calendar-search input[type="text"] { font-size: 0.75em; padding: 0.25rem 0.5rem; min-width: 120px; }
+    .calendar-view-toggle button { flex-basis: calc(33.333% - 8px); flex-grow: 0; }
+    .calendar-days div.day-cell { height: var(--day-cell-height-small-mobile); padding: 0.25rem; }
+    .day-number { font-size: 0.8em; margin-bottom: 0.15rem; }
+
+    .reservation-card .card-header h3 { font-size: 1.1em; }
+    .reservation-card .card-section h4 { font-size: 0.95em; }
+    .reservation-card .card-section p, .reservation-card .card-section li { font-size: 0.8em; }
+}

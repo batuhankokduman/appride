@@ -1,0 +1,3035 @@
+[2025-05-20 01:11:38] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 1
+)
+
+[2025-05-20 01:11:38] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 1
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 5.4
+    [:cost_per_child] => 5.4
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 13:48:17] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 1
+)
+
+[2025-05-20 13:48:17] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 1
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 5.4
+    [:cost_per_child] => 5.4
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 13:48:56] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 2
+)
+
+[2025-05-20 13:48:56] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 2
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 9
+    [:cost_per_child] => 9
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 13:49:29] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 3
+)
+
+[2025-05-20 13:49:29] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 3
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 10
+    [:cost_per_child] => 10
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 13:50:05] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 4
+)
+
+[2025-05-20 13:50:05] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 4
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 31
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 13:50:39] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 5
+)
+
+[2025-05-20 13:50:39] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 5
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 45
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 13:51:02] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 6
+)
+
+[2025-05-20 13:51:02] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 6
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 54
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 13:52:48] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 7
+)
+
+[2025-05-20 13:52:48] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 7
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 28
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 13:53:22] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 8
+)
+
+[2025-05-20 13:53:22] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 8
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 36
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 13:54:09] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 9
+)
+
+[2025-05-20 13:54:09] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 9
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 40
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 13:54:38] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 10
+)
+
+[2025-05-20 13:54:38] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 10
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 40
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 14:55:32] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 11
+)
+
+[2025-05-20 14:55:32] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 11
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 60
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 14:56:04] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 12
+)
+
+[2025-05-20 14:56:04] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 12
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 65
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 14:56:45] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 13
+)
+
+[2025-05-20 14:56:45] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 13
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 10.8
+    [:cost_per_child] => 10.8
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 14:57:34] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 14
+)
+
+[2025-05-20 14:57:34] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 14
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 9
+    [:cost_per_child] => 9
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 15:02:08] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 15
+)
+
+[2025-05-20 15:02:08] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 15
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 9
+    [:cost_per_child] => 9
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 15:04:48] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 16
+)
+
+[2025-05-20 15:04:48] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 16
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 63
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 15:09:48] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 17
+)
+
+[2025-05-20 15:09:48] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 17
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 54
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 15:10:09] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 18
+)
+
+[2025-05-20 15:10:09] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 18
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 45
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 15:10:36] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 19
+)
+
+[2025-05-20 15:10:36] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 19
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 27
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 15:10:53] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 20
+)
+
+[2025-05-20 15:10:53] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 20
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 27
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 15:11:14] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 21
+)
+
+[2025-05-20 15:11:14] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 21
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 32
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 15:11:43] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 22
+)
+
+[2025-05-20 15:11:43] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 22
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 54
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-20 15:12:11] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 23
+)
+
+[2025-05-20 15:12:11] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 23
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 67
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:00:50] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 25
+)
+
+[2025-05-21 13:00:50] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 25
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 54
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:01:41] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 26
+)
+
+[2025-05-21 13:01:41] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 26
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 45
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:04:22] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 27
+)
+
+[2025-05-21 13:04:22] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 27
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 25
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:04:46] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 28
+)
+
+[2025-05-21 13:04:46] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 28
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 25
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:05:03] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 29
+)
+
+[2025-05-21 13:05:03] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 29
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 24
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:05:56] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 30
+)
+
+[2025-05-21 13:05:56] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 30
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 27
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:06:22] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 31
+)
+
+[2025-05-21 13:06:22] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 31
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 35
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:06:53] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 32
+)
+
+[2025-05-21 13:06:53] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 32
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 51
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:08:04] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 34
+)
+
+[2025-05-21 13:08:04] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 34
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 74
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:09:04] 🛠 UPDATE PARAMS:
+Array
+(
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 74.00
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+    [:id] => 32
+)
+
+[2025-05-21 13:09:53] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 35
+)
+
+[2025-05-21 13:09:53] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 35
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 65
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:10:19] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 36
+)
+
+[2025-05-21 13:10:19] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 36
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 32
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:10:46] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 37
+)
+
+[2025-05-21 13:10:46] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 37
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 32
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:11:04] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 38
+)
+
+[2025-05-21 13:11:04] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 38
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 27
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:11:24] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 39
+)
+
+[2025-05-21 13:11:24] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 39
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 32
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:11:49] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 40
+)
+
+[2025-05-21 13:11:49] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 40
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 62
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:12:25] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 41
+)
+
+[2025-05-21 13:12:25] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 41
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 65
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:13:37] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 43
+)
+
+[2025-05-21 13:13:37] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 43
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 28
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:14:00] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 44
+)
+
+[2025-05-21 13:14:00] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 44
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 36
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:14:42] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 45
+)
+
+[2025-05-21 13:14:42] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 45
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 40
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:15:33] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 46
+)
+
+[2025-05-21 13:15:33] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 46
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 54
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:15:51] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 47
+)
+
+[2025-05-21 13:15:51] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 47
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 45
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:16:10] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 48
+)
+
+[2025-05-21 13:16:10] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 48
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 25
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:16:41] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 49
+)
+
+[2025-05-21 13:16:41] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 49
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 25
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:16:54] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 50
+)
+
+[2025-05-21 13:16:54] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 50
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 24
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:17:42] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 51
+)
+
+[2025-05-21 13:17:42] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 51
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 27
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:19:01] 🛠 UPDATE PARAMS:
+Array
+(
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 27.00
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+    [:id] => 48
+)
+
+[2025-05-21 13:19:22] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 52
+)
+
+[2025-05-21 13:19:22] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 52
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 35
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:19:45] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 53
+)
+
+[2025-05-21 13:19:45] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 53
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 51
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:24:03] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 55
+)
+
+[2025-05-21 13:24:03] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 55
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 10
+    [:price_per_km_range] => {"0-100":0.5,"101-200":0.4,"201-600":0.35,"601-1000":0.3}
+    [:price_per_minute] => 0.1
+    [:price_per_extra_minute] => 0.1
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:24:56] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 56
+)
+
+[2025-05-21 13:24:56] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 56
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 10
+    [:price_per_km_range] => {"0-100":0.5,"101-200":0.4,"201-600":0.35,"601-1000":0.3}
+    [:price_per_minute] => 0.1
+    [:price_per_extra_minute] => 0.1
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:26:15] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 57
+)
+
+[2025-05-21 13:26:15] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 57
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 10
+    [:price_per_km_range] => {"0-100":0.5,"101-200":0.4,"201-600":0.35,"601-1000":0.3}
+    [:price_per_minute] => 0.1
+    [:price_per_extra_minute] => 0.1
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:27:28] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 58
+)
+
+[2025-05-21 13:27:28] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 58
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 15
+    [:price_per_km_range] => {"0-100":0.55,"101-200":0.45,"201-600":0.35,"601-100":0.3}
+    [:price_per_minute] => 0.1
+    [:price_per_extra_minute] => 0.1
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:28:01] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 63
+)
+
+[2025-05-21 13:28:01] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 63
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 28
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:28:32] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 64
+)
+
+[2025-05-21 13:28:32] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 64
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 36
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:28:55] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 65
+)
+
+[2025-05-21 13:28:55] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 65
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 40
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:29:22] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 66
+)
+
+[2025-05-21 13:29:22] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 66
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 54
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:29:44] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 67
+)
+
+[2025-05-21 13:29:44] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 67
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 45
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:30:00] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 68
+)
+
+[2025-05-21 13:30:00] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 68
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 25
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:30:13] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 69
+)
+
+[2025-05-21 13:30:13] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 69
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 25
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:30:47] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 70
+)
+
+[2025-05-21 13:30:47] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 70
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 24
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:31:02] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 71
+)
+
+[2025-05-21 13:31:02] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 71
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 27
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:31:24] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 72
+)
+
+[2025-05-21 13:31:24] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 72
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 35
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:32:23] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 73
+)
+
+[2025-05-21 13:32:23] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 73
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 10
+    [:price_per_km_range] => {"0-100":0.5,"101-200":0.4,"201-600":0.35,"601-1000":0.3}
+    [:price_per_minute] => 0.1
+    [:price_per_extra_minute] => 0.1
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:33:35] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 77
+)
+
+[2025-05-21 13:33:35] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 77
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 10.8
+    [:cost_per_child] => 10.8
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:35:36] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 79
+)
+
+[2025-05-21 13:35:36] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 79
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 40
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:35:55] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 80
+)
+
+[2025-05-21 13:35:55] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 80
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 70
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:36:16] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 81
+)
+
+[2025-05-21 13:36:16] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 81
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 50
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:36:33] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 82
+)
+
+[2025-05-21 13:36:33] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 82
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 50
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:37:07] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 83
+)
+
+[2025-05-21 13:37:07] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 83
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 10.8
+    [:cost_per_child] => 10.8
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:37:39] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 84
+)
+
+[2025-05-21 13:37:39] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 84
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 63
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:38:01] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-10
+    [:new_valid_from2] => 2025-05-10
+    [:supplier_id] => 3
+    [:price_rule_id] => 83
+)
+
+[2025-05-21 13:38:01] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 83
+    [:valid_from] => 2025-05-10
+    [:cost_per_adult] => 10.8
+    [:cost_per_child] => 10.8
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:38:38] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 85
+)
+
+[2025-05-21 13:38:38] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 85
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 50
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:38:52] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 86
+)
+
+[2025-05-21 13:38:52] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 86
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 50
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:39:05] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 87
+)
+
+[2025-05-21 13:39:05] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 87
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 50
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:39:37] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 88
+)
+
+[2025-05-21 13:39:37] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 88
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 70
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:40:10] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 89
+)
+
+[2025-05-21 13:40:10] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 89
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 10
+    [:cost_per_child] => 10
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:40:29] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 89
+)
+
+[2025-05-21 13:40:29] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 89
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 10
+    [:cost_per_child] => 10
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:40:50] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 90
+)
+
+[2025-05-21 13:40:50] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 90
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 10
+    [:cost_per_child] => 10
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:41:10] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 91
+)
+
+[2025-05-21 13:41:10] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 91
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 54
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:41:28] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 92
+)
+
+[2025-05-21 13:41:28] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 92
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 38
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:41:53] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 93
+)
+
+[2025-05-21 13:41:53] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 93
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 38
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:42:16] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 94
+)
+
+[2025-05-21 13:42:16] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 94
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 38
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:42:42] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 95
+)
+
+[2025-05-21 13:42:42] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 95
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 62
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:43:03] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 96
+)
+
+[2025-05-21 13:43:03] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 96
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 9
+    [:cost_per_child] => 9
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:43:27] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 97
+)
+
+[2025-05-21 13:43:27] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 97
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 45
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:43:46] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 98
+)
+
+[2025-05-21 13:43:46] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 98
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 38
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:43:59] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 99
+)
+
+[2025-05-21 13:43:59] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 99
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 38
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:44:11] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 100
+)
+
+[2025-05-21 13:44:11] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 100
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 38
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:44:26] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 101
+)
+
+[2025-05-21 13:44:26] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 101
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 62
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:44:45] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 102
+)
+
+[2025-05-21 13:44:45] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 102
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 9
+    [:cost_per_child] => 9
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:45:13] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 103
+)
+
+[2025-05-21 13:45:13] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 103
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 40
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:45:30] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 104
+)
+
+[2025-05-21 13:45:30] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 104
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 38
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:45:48] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 105
+)
+
+[2025-05-21 13:45:48] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 105
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 38
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:46:00] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 106
+)
+
+[2025-05-21 13:46:00] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 106
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 38
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:46:17] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 107
+)
+
+[2025-05-21 13:46:17] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 107
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 62
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:46:32] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 108
+)
+
+[2025-05-21 13:46:32] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 108
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 51
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:46:46] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 109
+)
+
+[2025-05-21 13:46:46] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 109
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 25
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:47:12] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 109
+)
+
+[2025-05-21 13:47:12] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 109
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 40
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:47:37] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 110
+)
+
+[2025-05-21 13:47:37] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 110
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 25
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:47:55] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 111
+)
+
+[2025-05-21 13:47:55] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 111
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 25
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:48:10] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 112
+)
+
+[2025-05-21 13:48:10] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 112
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 25
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:48:36] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 113
+)
+
+[2025-05-21 13:48:36] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 113
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 25
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:48:43] 🛠 UPDATE PARAMS:
+Array
+(
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 32
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+    [:id] => 104
+)
+
+[2025-05-21 13:49:06] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 114
+)
+
+[2025-05-21 13:49:06] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 114
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 80
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:49:44] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 115
+)
+
+[2025-05-21 13:49:44] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 115
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 55
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:50:03] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 116
+)
+
+[2025-05-21 13:50:03] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 116
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 70
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:50:26] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 117
+)
+
+[2025-05-21 13:50:26] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 117
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 55
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:50:59] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 3
+    [:price_rule_id] => 118
+)
+
+[2025-05-21 13:50:59] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 118
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 12.7
+    [:cost_per_child] => 12.7
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:51:55] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 120
+)
+
+[2025-05-21 13:51:55] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 120
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 20
+    [:price_per_km_range] => {"0-100":0.7,"101-200":0.6,"201-600":0.5,"601-1000":0.4}
+    [:price_per_minute] => 0.1
+    [:price_per_extra_minute] => 0.1
+    [:extras_json] => {}
+)
+
+[2025-05-21 13:52:47] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-01
+    [:new_valid_from2] => 2025-05-01
+    [:supplier_id] => 2
+    [:price_rule_id] => 121
+)
+
+[2025-05-21 13:52:47] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 2
+    [:price_rule_id] => 121
+    [:valid_from] => 2025-05-01
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 20
+    [:price_per_km_range] => {"0-100":0.6,"101-200":0.5,"201-600":0.4,"601-1000":0.35}
+    [:price_per_minute] => 0.1
+    [:price_per_extra_minute] => 0.1
+    [:extras_json] => {}
+)
+
+[2025-05-22 10:53:02] 🛠 UPDATE PARAMS:
+Array
+(
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 31.00
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+    [:id] => 21
+)
+
+[2025-05-22 11:46:58] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-05-22
+    [:new_valid_from2] => 2025-05-22
+    [:supplier_id] => 3
+    [:price_rule_id] => 78
+)
+
+[2025-05-22 11:46:58] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 78
+    [:valid_from] => 2025-05-22
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 63
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-05-23 13:46:59] 🛠 UPDATE PARAMS:
+Array
+(
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 32
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+    [:id] => 100
+)
+
+[2025-05-23 13:48:11] 🛠 UPDATE PARAMS:
+Array
+(
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 63
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+    [:id] => 81
+)
+
+[2025-06-29 10:25:15] ⏳ UPDATE valid_to PARAMS:
+Array
+(
+    [:new_valid_from1] => 2025-06-29
+    [:new_valid_from2] => 2025-06-29
+    [:supplier_id] => 3
+    [:price_rule_id] => 139
+)
+
+[2025-06-29 10:25:15] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 139
+    [:valid_from] => 2025-06-29
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+)
+
+[2025-06-29 10:26:37] 🛠 UPDATE PARAMS:
+Array
+(
+    [:cost_per_adult] => 
+    [:cost_per_child] => 
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+    [:currency] => EUR
+    [:id] => 113
+)
+
+[2025-06-29 10:26:37] 🛑 PDOException:
+Veritabanı Hatası: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'updated_at' in 'SET' | Kod: 42S22
+[2025-06-29 10:27:01] 🛠 UPDATE PARAMS:
+Array
+(
+    [:cost_per_adult] => 22
+    [:cost_per_child] => 22
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {"2270":2}
+    [:currency] => EUR
+    [:id] => 113
+)
+
+[2025-06-29 10:27:01] 🛑 PDOException:
+Veritabanı Hatası: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'updated_at' in 'SET' | Kod: 42S22
+[2025-06-29 10:27:54] ⚠️ Exception:
+Genel Hata: Geçerlilik Başlangıç Tarihi, mevcut aktif maliyet periyodundan önceki veya aynı bir tarih olamaz.
+[2025-06-29 10:31:14] ⏳ CLOSING PREVIOUS PERIOD PARAMS:
+Array
+(
+    [:new_valid_from] => 2025-06-30
+    [:id] => 113
+)
+
+[2025-06-29 10:31:14] 🛑 PDOException:
+Veritabanı Hatası: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'updated_at' in 'SET' | Kod: 42S22
+[2025-06-29 10:32:52] ⏳ CLOSING PREVIOUS PERIOD PARAMS:
+Array
+(
+    [:new_valid_from] => 2025-06-30
+    [:id] => 113
+)
+
+[2025-06-29 10:32:52] 🛑 PDOException:
+Veritabanı Hatası: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'updated_at' in 'SET' | Kod: 42S22
+[2025-06-29 12:24:00] ⚠️ Exception:
+Genel Hata: Geçerlilik Başlangıç Tarihi, mevcut aktif maliyet periyodundan önceki veya aynı bir tarih olamaz.
+[2025-06-29 12:24:24] ⏳ CLOSING PREVIOUS PERIOD PARAMS:
+Array
+(
+    [:new_valid_from] => 2025-07-20
+    [:id] => 113
+)
+
+[2025-06-29 12:24:24] 🧾 INSERT PARAMS:
+Array
+(
+    [:supplier_id] => 3
+    [:price_rule_id] => 139
+    [:valid_from] => 2025-07-20
+    [:cost_per_adult] => 22
+    [:cost_per_child] => 22
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+    [:currency] => EUR
+)
+
+[2025-06-29 12:24:35] ⚠️ Exception:
+Genel Hata: Geçerlilik Başlangıç Tarihi, mevcut aktif maliyet periyodundan önceki veya aynı bir tarih olamaz.
+[2025-06-29 12:27:00] ⚠️ Exception:
+Genel Hata: Geçerlilik Başlangıç Tarihi, mevcut aktif maliyet periyodundan önceki veya aynı bir tarih olamaz.
+[2025-06-29 12:27:08] ⚠️ Exception:
+Genel Hata: Geçerlilik Başlangıç Tarihi, mevcut aktif maliyet periyodundan önceki veya aynı bir tarih olamaz.
+[2025-06-29 12:31:25] 🛠 DIRECT UPDATE PARAMS:
+Array
+(
+    [:cost_per_adult] => 22.00
+    [:cost_per_child] => 33
+    [:cost_per_vehicle] => 
+    [:fixed_base_price] => 
+    [:price_per_km_range] => {}
+    [:price_per_minute] => 
+    [:price_per_extra_minute] => 
+    [:extras_json] => {}
+    [:currency] => EUR
+    [:id] => 114
+)
+

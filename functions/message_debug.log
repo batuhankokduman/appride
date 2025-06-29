@@ -1,0 +1,84 @@
+------ YENİ MESAJ ------
+[DEBUG] MESAJ GELDİĞİ GİBİ: Hello *EMRE TUNABAYOĞLU*,
+
+✅ Your transfer with RideAndGoo has been *successfully completed.*
+
+We’re glad to have brought you to your destination safely and on time. Thank you for choosing us!
+
+📢 Your feedback is very valuable to us.
+If you have any questions or would like to share your experience, please don’t hesitate to reach out.
+
+We look forward to seeing you again with RideAndGoo!
+[DEBUG] '&amp;' DÜZELTMESİNDEN SONRA: Hello *EMRE TUNABAYOĞLU*,
+
+✅ Your transfer with RideAndGoo has been *successfully completed.*
+
+We’re glad to have brought you to your destination safely and on time. Thank you for choosing us!
+
+📢 Your feedback is very valuable to us.
+If you have any questions or would like to share your experience, please don’t hesitate to reach out.
+
+We look forward to seeing you again with RideAndGoo!
+[DEBUG] cURL'e GİDEN SON VERİ: secret=27ba91c9433fa99c1b02103ed0f0822e115149b9&account=1743156722c81e728d9d4c2f636f067f89cc14862c67e675f2d6db5&recipient=%2B905534927980&type=text&message=Hello+%2AEMRE+TUNABAYO%C4%9ELU%2A%2C%0D%0A%0D%0A%E2%9C%85+Your+transfer+with+RideAndGoo+has+been+%2Asuccessfully+completed.%2A%0D%0A%0D%0AWe%E2%80%99re+glad+to+have+brought+you+to+your+destination+safely+and+on+time.+Thank+you+for+choosing+us%21%0D%0A%0D%0A%F0%9F%93%A2+Your+feedback+is+very+valuable+to+us.%0D%0AIf+you+have+any+questions+or+would+like+to+share+your+experience%2C+please+don%E2%80%99t+hesitate+to+reach+out.%0D%0A%0D%0AWe+look+forward+to+seeing+you+again+with+RideAndGoo%21&priority=1
+[DEBUG] API YANITI: (HTTP 200) {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"2410"}}
+
+------ YENİ MESAJ ------
+[DEBUG] MESAJ GELDİĞİ GİBİ: Hello *EMRE TUNABAYOĞLU*,
+
+❌ Your RideAndGoo transfer reservation has been *cancelled upon your request.*
+
+🔹 *Cancelled Reservation Details:*
+
+• Booking No: 35719
+
+• Date & Time: 2025-06-19 11:11:00
+
+• Pickup Location: Alanya, Antalya, Türkiye
+
+• Drop-off Location: Antalya Havalimanı (AYT), Yeşilköy, Antalya Havaalanı Dış Hatlar Terminali 1, Muratpaşa/Antalya, Türkiye
+
+• Passengers: 1 Adults, 0 Children
+
+• Total Price: 14.50 EUR
+
+• Paid Amount: 0.00 EUR
+
+💳 *If you made an online payment, your refund will be initiated within 1 business days.*
+
+🎟️ *To view the details of your cancelled reservation:*
+https://app.rideandgoo.com/rez.php?id=35719&t=kchx4plc
+
+❓ If you have any questions, feel free to contact us.
+
+RideAndGoo Team
+[DEBUG] '&amp;' DÜZELTMESİNDEN SONRA: Hello *EMRE TUNABAYOĞLU*,
+
+❌ Your RideAndGoo transfer reservation has been *cancelled upon your request.*
+
+🔹 *Cancelled Reservation Details:*
+
+• Booking No: 35719
+
+• Date & Time: 2025-06-19 11:11:00
+
+• Pickup Location: Alanya, Antalya, Türkiye
+
+• Drop-off Location: Antalya Havalimanı (AYT), Yeşilköy, Antalya Havaalanı Dış Hatlar Terminali 1, Muratpaşa/Antalya, Türkiye
+
+• Passengers: 1 Adults, 0 Children
+
+• Total Price: 14.50 EUR
+
+• Paid Amount: 0.00 EUR
+
+💳 *If you made an online payment, your refund will be initiated within 1 business days.*
+
+🎟️ *To view the details of your cancelled reservation:*
+https://app.rideandgoo.com/rez.php?id=35719&t=kchx4plc
+
+❓ If you have any questions, feel free to contact us.
+
+RideAndGoo Team
+[DEBUG] cURL'e GİDEN SON VERİ: secret=27ba91c9433fa99c1b02103ed0f0822e115149b9&account=1743156722c81e728d9d4c2f636f067f89cc14862c67e675f2d6db5&recipient=%2B905534927980&type=text&message=Hello+%2AEMRE+TUNABAYO%C4%9ELU%2A%2C%0D%0A%0D%0A%E2%9D%8C+Your+RideAndGoo+transfer+reservation+has+been+%2Acancelled+upon+your+request.%2A%0D%0A%0D%0A%F0%9F%94%B9+%2ACancelled+Reservation+Details%3A%2A%0D%0A%0D%0A%E2%80%A2+Booking+No%3A+35719%0D%0A%0D%0A%E2%80%A2+Date+%26+Time%3A+2025-06-19+11%3A11%3A00%0D%0A%0D%0A%E2%80%A2+Pickup+Location%3A+Alanya%2C+Antalya%2C+T%C3%BCrkiye%0D%0A%0D%0A%E2%80%A2+Drop-off+Location%3A+Antalya+Havaliman%C4%B1+%28AYT%29%2C+Ye%C5%9Filk%C3%B6y%2C+Antalya+Havaalan%C4%B1+D%C4%B1%C5%9F+Hatlar+Terminali+1%2C+Muratpa%C5%9Fa%2FAntalya%2C+T%C3%BCrkiye%0D%0A%0D%0A%E2%80%A2+Passengers%3A+1+Adults%2C+0+Children%0D%0A%0D%0A%E2%80%A2+Total+Price%3A+14.50+EUR%0D%0A%0D%0A%E2%80%A2+Paid+Amount%3A+0.00+EUR%0D%0A%0D%0A%F0%9F%92%B3+%2AIf+you+made+an+online+payment%2C+your+refund+will+be+initiated+within+1+business+days.%2A%0D%0A%0D%0A%F0%9F%8E%9F%EF%B8%8F+%2ATo+view+the+details+of+your+cancelled+reservation%3A%2A%0D%0Ahttps%3A%2F%2Fapp.rideandgoo.com%2Frez.php%3Fid%3D35719%26t%3Dkchx4plc%0D%0A%0D%0A%E2%9D%93+If+you+have+any+questions%2C+feel+free+to+contact+us.%0D%0A%0D%0ARideAndGoo+Team&priority=1
+[DEBUG] API YANITI: (HTTP 200) {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"2411"}}
+
